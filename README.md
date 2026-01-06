@@ -31,13 +31,6 @@ I am a passionate **Fullstack Developer** from Ukraine 🇺🇦. I focus on buil
 
 ---
 
-### ✨ Activity & Style
-<p align="center">
-  <img src="https://media.giphy.com/media/LmN8STYPBGjYj7K0d8/giphy.gif" alt="Coding GIF" width="600" />
-</p>
-
----
-
 ### 📬 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ВСТАВ_СЮДИ_ID)
