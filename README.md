@@ -18,7 +18,7 @@ I am a passionate **Fullstack Developer** from Ukraine 🇺🇦. I love building
 ### 📊 GitHub Stats
 <p align="left">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IvanShandor&theme=radical" height="180em" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=IvanShandor&theme=radical" height="180em" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=IvanShandor&theme=radical" />
 </p>
 
 ---
