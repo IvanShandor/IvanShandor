@@ -30,3 +30,7 @@ I am a passionate **Fullstack Developer** from Ukraine 🇺🇦. I love building
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanshandor5@gmail.com)
 
 ---
+
+<p align="center">
+  <i>"Simple is better than complex." (The Zen of Python)</i>
+</p>
