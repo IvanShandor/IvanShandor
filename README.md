@@ -16,10 +16,14 @@ I am a passionate **Fullstack Developer** from Ukraine 🇺🇦. I love building
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IvanShandor&theme=radical" height="180em" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=IvanShandor&theme=radical" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=IvanShandor&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=IvanShandor&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanShandor&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=IvanShandor&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
